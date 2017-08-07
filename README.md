@@ -12,3 +12,8 @@ This repository is for the Google CodeJam 2016 solutions
 3. [Coin Jam](https://code.google.com/codejam/contest/6254486/dashboard#s=p2) : SOLVED
 4. [Fractiles](https://code.google.com/codejam/contest/6254486/dashboard#s=p3) : !SOLVED
 
+#### Round 1A
+1. [The Last Word](https://code.google.com/codejam/contest/4304486/dashboard#s=p0)
+2. [Rank and File](https://code.google.com/codejam/contest/4304486/dashboard#s=p1)
+3. [BFFs](https://code.google.com/codejam/contest/4304486/dashboard#s=p2)
+
